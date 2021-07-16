@@ -1,13 +1,12 @@
 # Led Strip Arnet Protocol
 
+## Hardware 
 # Option 1
-- Hardware :
 - H802RA Controller Led
 - Led Strip WS2812 ( 15 Meters / 3 Roll )
 - PSU 5V 60A
 
 # Option 2
-- Hardware :
 - Esp-32 or esp 8266
 - Led Strip WS2812 ( 15 Meters / 3 Roll )
 - PSU 5V 60A
